@@ -1,0 +1,14 @@
+/Volumes/Secondary/marteliuz/Projects/IR_control/bin/Debug/net7.0/IR_control
+/Volumes/Secondary/marteliuz/Projects/IR_control/bin/Debug/net7.0/IR_control.deps.json
+/Volumes/Secondary/marteliuz/Projects/IR_control/bin/Debug/net7.0/IR_control.runtimeconfig.json
+/Volumes/Secondary/marteliuz/Projects/IR_control/bin/Debug/net7.0/IR_control.dll
+/Volumes/Secondary/marteliuz/Projects/IR_control/bin/Debug/net7.0/IR_control.pdb
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.AssemblyInfoInputs.cache
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.AssemblyInfo.cs
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.dll
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/refint/IR_control.dll
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.pdb
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/IR_control.genruntimeconfig.cache
+/Volumes/Secondary/marteliuz/Projects/IR_control/obj/Debug/net7.0/ref/IR_control.dll

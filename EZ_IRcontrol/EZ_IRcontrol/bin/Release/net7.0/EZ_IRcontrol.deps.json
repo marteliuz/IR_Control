@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EZ_IRcontrol/1.0.0": {
+        "runtime": {
+          "EZ_IRcontrol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EZ_IRcontrol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

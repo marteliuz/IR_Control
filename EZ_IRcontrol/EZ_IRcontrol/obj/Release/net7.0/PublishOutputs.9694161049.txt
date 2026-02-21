@@ -1,0 +1,5 @@
+/Users/marteliuz/Desktop/publish/EZ_IRcontrol
+/Users/marteliuz/Desktop/publish/EZ_IRcontrol.dll
+/Users/marteliuz/Desktop/publish/EZ_IRcontrol.deps.json
+/Users/marteliuz/Desktop/publish/EZ_IRcontrol.runtimeconfig.json
+/Users/marteliuz/Desktop/publish/EZ_IRcontrol.pdb
